@@ -1,5 +1,5 @@
 node {
-	def application = "Jenkin_helloworld"
+	def application = "helloworld"
 	def dockerhubaccountid = "isasalakr"
 	
 	stage('Clone repository') {
